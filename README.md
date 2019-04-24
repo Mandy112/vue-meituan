@@ -1,29 +1,8 @@
-# meituan
+# vue仿美团项目
 
-## Project setup
-```
-npm install
-```
+第一阶段：参考低保真原型进行开发
+低保真原型参考：https://www.xiaopiu.com/h5/byId?type=project&id=591fddc0f89fab395f648cca
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+特此声明：此项目仅用于学习开发，不做他用
