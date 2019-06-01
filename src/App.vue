@@ -1,5 +1,6 @@
 <template>
     <div id="app">
+    123
         <MyFooterBar></MyFooterBar>
     </div>
 </template>
