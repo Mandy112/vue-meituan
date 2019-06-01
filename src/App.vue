@@ -1,6 +1,5 @@
 <template>
     <div id="app">
-    a2
         <MyFooterBar></MyFooterBar>
     </div>
 </template>
